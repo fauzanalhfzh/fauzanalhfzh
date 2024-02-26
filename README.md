@@ -1,4 +1,6 @@
-<h3 title="hehehe"> Hey 👋, I'm Zen!</h3>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
 <a href="https://www.linkedin.com/in/mohammad-fauzan-alhafizh/" target="_blank">
   <img align="left" alt="Zen LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -27,6 +29,9 @@ A **Software Engineering Student** 🚀 from Cilegon, Banten.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [zenbangga@gmail.com](mailto:zenbangga@gmail.com).
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1wH9h6nUXfL7HEv3Afik0uvaF2aeeZ2t7/view?usp=sharing) to get more info.
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href="https://www.java.com" target="_blank"> 
 
 
 **Languages and Tools:**  
