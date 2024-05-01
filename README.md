@@ -1,4 +1,4 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello Fellow < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
@@ -7,8 +7,8 @@
 <br />
 <br />
 
-A **Software Engineering Student** 🚀 from Cilegon, Banten.
- Currently, I'm a zenLabs Team lead 🙍🏽‍♂️ [@fauzanalhfzh](https://github.com/fauzanalhfzh),  and an Content Editor Frontend intern in BuildWithAngga 👨🏽‍💼.  
+A **Software Engineering Enthusiast** 🚀 from Cilegon, Banten.
+ Currently, I'm a Zenstory Team lead 🙍🏽‍♂️ [@fauzanalhfzh](https://github.com/fauzanalhfzh),  and an Content Editor Frontend intern in BuildWithAngga 👨🏽‍💼.  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -16,13 +16,13 @@ A **Software Engineering Student** 🚀 from Cilegon, Banten.
 <br />
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
 
-- 👨🏽‍💻 I’m currently working as a Fullstack Web Application Developer at Star Media Teknik.
-- 🌱 I’m currently exploring next.js with a big interest in 3D web and Data Visualization. 
+- 👨🏽‍💻 I’m currently working as a Back-end Software Enggineer at PT. Mahira Kreasi Indonesia.
+- 🌱 I’m currently exploring next.js and nestjs with a big interest in 3D web and Data Visualization. 
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [zenbangga@gmail.com](mailto:zenbangga@gmail.com).
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1wH9h6nUXfL7HEv3Afik0uvaF2aeeZ2t7/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae]([[https://drive.google.com/file/d/1wH9h6nUXfL7HEv3Afik0uvaF2aeeZ2t7/view?usp=sharing](https://drive.google.com/file/d/1zo-U3ajUN3sn2fSaBnQgj9o5ZkxdH35O/view?usp=drive_link)](https://drive.google.com/file/d/1zo-U3ajUN3sn2fSaBnQgj9o5ZkxdH35O/view?usp=drive_link)) to get more info.
 
 <h2> Use To Code <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://www.java.com" target="_blank"> 
