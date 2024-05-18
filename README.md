@@ -8,7 +8,7 @@
 <br />
 
 A **Software Engineering Enthusiast** 🚀 from Cilegon, Banten.
- Currently, I'm a Zenstory Team lead 🙍🏽‍♂️ [@fauzanalhfzh](https://github.com/fauzanalhfzh),  and an Content Editor Frontend intern in BuildWithAngga 👨🏽‍💼.  
+ Currently, I'm a Zenstory Team lead 🙍🏽‍♂️ [@fauzanalhfzh](https://github.com/fauzanalhfzh),  and an Backend Software Engineer at PT. Mahira Kreasi Indonesia 👨🏽‍💼.  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
