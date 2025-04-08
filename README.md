@@ -8,7 +8,6 @@
 <br />
 
 A **Software Engineering Enthusiast** 🚀 from Cilegon, Banten.
- Currently, I'm a Zenstory Team lead 🙍🏽‍♂️ [@fauzanalhfzh](https://github.com/fauzanalhfzh),  and an Backend Software Engineer at PT. Mahira Kreasi Indonesia 👨🏽‍💼.  
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
@@ -16,7 +15,6 @@ A **Software Engineering Enthusiast** 🚀 from Cilegon, Banten.
 <br />
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
 
-- 👨🏽‍💻 I’m currently working as a Back-end Software Enggineer at PT. Mahira Kreasi Indonesia.
 - 🌱 I’m currently exploring next.js and nestjs with a big interest in 3D web and Data Visualization. 
 - 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
